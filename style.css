@@ -27,7 +27,7 @@ section{
     background-color: rgb(56, 198, 223);
     border-style: solid;
     border-color: black;
-    margin:3px;
+    margin:2px;
     
 }  
 p{
@@ -37,13 +37,13 @@ p{
 
 @media only screen and (min-width:768px) and (max-width:991px){
     .s1{
-      width:48.5%;
+      width:49%;
     }
     .s2{
-        width:48.5%;
+        width:49%;
     }
     .s3{
-        width:98%;
+        width:98.5%;
     }
 }
 @media only screen and (min-width:992px){
